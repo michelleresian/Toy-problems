@@ -96,3 +96,5 @@ function calculateNetSalary() {
 
   document.getElementById("result") .innerHTML = "Net salary: " + netSalary.toFixed(2)
 }
+
+calculateNetSalary();
